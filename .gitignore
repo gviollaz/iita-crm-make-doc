@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Autodoc (archivos generados localmente, no versionados)
+db_schema.json
+tasks/
+autodoc.log
+
+# OS
+.DS_Store
+Thumbs.db
